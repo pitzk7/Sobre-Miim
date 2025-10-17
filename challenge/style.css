@@ -1,0 +1,21 @@
+body {
+ background-color: beige;
+ font-family: Arial, Helvetica, sans-serif;
+ text-align: center;
+margin: calc(50px);
+}
+
+body {
+    background-color: rgb(255, 255, 255);
+    color: #0078ff;
+}
+
+button {
+  background: #0078ff;
+  color: rgb(255, 255, 255);
+  padding: calc(10px);
+  border-radius: 8px;
+  border: none;
+  cursor: progresss;
+  margin-top: 0cap;
+}
